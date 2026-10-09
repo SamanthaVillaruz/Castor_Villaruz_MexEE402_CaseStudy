@@ -33,6 +33,15 @@ What we've learned from chapter 4 is that raw data can be improved in many ways 
 
 Chapter 5 taught us that data scaling and normalization helps in making features with different numerical ranges or values more comparable. We also learned that StandardScaler adjusts the data to have a mean of 0 and a standard deviation of 1, while MinMaxScaler scales values between 0 and 1. What surprised us was that a feature with larger numerical values could influence a machine learning model more than a feature with smaller values, even when both features are important.
 
+In Chapter 6, we learned the meaning of outliners then how to use the Z-score method and Interquartile Ranges (IQR). Also the strategies of capping & flooring went about boundaries, Log Transformation resulting into quality data and removing outliners which is important so the date will not have discrepancy.
+
+In chapter 7, we  understood the distinction between scoring features independently (Filter), feature as a problem and testing subsets recursively with a model (Wrapper), and the regularization method (Embedded). We also learned what RFEVC and LassoCV does in the data.
+
+In Chapter 8, we learned how constructing a preprocessing pipeline can be compared to a conveyor belt. Then it's important to remember the reason why we use pipelines in preprocessing. Then we also learned the steps inside it which are the imputation and scaling and the assurances that identical transformation parameters are applied consistently during evaluation.
+
+In chapter 9, we learned how to do the data processing that can be used in real world applications. It has its own techniques that start in data cleaning for missing values, data transformation to apply log transform, data reduction to drop irrelevant features, data discretization or also called binning and last is encoding to convert categorical features.
+
+
 ## Errors we found
 
 List any mistake you found in the original notebooks, and the correct version.
