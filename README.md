@@ -49,12 +49,9 @@ There are real ones in there. Finding them earns points.
 
 ## Note on AI tools
 
-Castor:
+Castor:    I used AI as a supplementary tool to help me verify my understanding of the topics, clarify concepts that I found confusing. However, the wordings on my answers was all originally from me, because I referred from the notebooks and used them as my primary source of information to make sure my answers were consistent with what was discussed in each chapter. I reviewed and adjusted the responses based on my own understanding rather than simply copying them, allowing me to use AI as a guide to support my learning and improve my uderstanding from the lessons.
 
-I used AI as a supplementary tool to help me verify my understanding of the topics, clarify concepts that I found confusing. However, the wordings on my answers was all originally from me, because I referred from the notebooks and used them as my primary source of information to make sure my answers were consistent with what was discussed in each chapter. I reviewed and adjusted the responses based on my own understanding rather than simply copying them, allowing me to use AI as a guide to support my learning and improve my uderstanding from the lessons.
-
-Villaruz:
-I used AI tools like ChatGPT and Gemini to ask for explanations about the codes and other terms that are not familiar to me. For example in chapter 7 I used gemini to help me explain the step by step process of RFECV and the way LassoCV works. It also helps me to identify the error in some chapters then i just used it to be my guide in answering the questions.
+Villaruz:    I used AI tools like ChatGPT and Gemini to ask for explanations about the codes and other terms that are not familiar to me. For example in chapter 7 I used gemini to help me explain the step by step process of RFECV and the way LassoCV works. It also helps me to identify the error in some chapters then i just used it to be my guide in answering the questions.
 
 ## References
 
