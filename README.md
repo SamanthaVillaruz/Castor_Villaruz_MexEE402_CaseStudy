@@ -44,8 +44,7 @@ In chapter 9, we learned how to do the data processing that can be used in real 
 
 ## Errors we found
 
-List any mistake you found in the original notebooks, and the correct version.
-There are real ones in there. Finding them earns points.
+In Chapter 6, the Z-score method didn't flag 100 as an outlier at first because the cutoff was set to 3. In this small dataset, 100 only calculated out to a Z-score of 2.615, so the code completely ignored it. To fix this and get the correct outliners, we adjusted the threshold from 3.0 down to 2.5. And in the chapter 7, 8, and 9 we didn't found any error.
 
 ## Note on AI tools
 
