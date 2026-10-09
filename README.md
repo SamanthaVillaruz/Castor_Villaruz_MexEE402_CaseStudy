@@ -17,9 +17,9 @@ Batangas State University, Alangilan Campus
 
 | Chapter | Castor | Villaruz |
 |---|---|---|
-| Ch1_2_3 | [https://colab.research.google.com/drive/14c6LMMYxg-W-r7JvkNpbFq4g8eB5DY9C?usp=sharing]() | [link]() |
-| Ch4 | [https://colab.research.google.com/drive/1u9jzDgPQMeH5jUQz-cuyJfyu-IgcZfMh?usp=sharing]() | [link]() |
-| Ch5 | [https://colab.research.google.com/drive/1EQOvWZjZ9droSd6y02_09XyF7zPFe_YG?usp=sharing]() | [link]() |
+| Ch1_2_3 | https://colab.research.google.com/drive/14c6LMMYxg-W-r7JvkNpbFq4g8eB5DY9C?usp=sharing| [link]() |
+| Ch4 | https://colab.research.google.com/drive/1u9jzDgPQMeH5jUQz-cuyJfyu-IgcZfMh?usp=sharing | [link]() |
+| Ch5 | [https://colab.research.google.com/drive/1EQOvWZjZ9droSd6y02_09XyF7zPFe_YG?usp=sharing | [link]() |
 | Ch6 | [link]() | https://colab.research.google.com/drive/1SWbZQ2Szbr0Wibl4wKhyGhnyz1m2_F9M#scrollTo=uaupq_BxozTj|
 | Ch7 | [link]() | https://colab.research.google.com/drive/179zlcQDrc6IJ17QNVuHGiMz568rXS_58#scrollTo=bziYNjO667DU |
 | Ch8 | [link]() | https://colab.research.google.com/drive/1rAMHE_28vu_PWNXngj1fGcKFCknkFBQX#scrollTo=M0Yu2eku7md0|
