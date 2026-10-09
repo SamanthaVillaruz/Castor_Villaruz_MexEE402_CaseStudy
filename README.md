@@ -10,8 +10,8 @@ Batangas State University, Alangilan Campus
 
 | Name | Student Number | Section |
 |---|---|---|
-| Surname, First Name | | |
-| Surname, First Name | | |
+| Castor, Vien Melvin |22-03687 |Mexe - 4103 |
+| Villaruz, Samantha |22-07711 |Mexe - 4103 |
 
 ## Notebook links
 
@@ -27,8 +27,11 @@ Batangas State University, Alangilan Campus
 
 ## What we learned
 
-One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught
-you and what surprised you. Not what the library does, but what you understood.
+Chapters 1, 2, and 3 taught us that before using data for machine learning, we need to understand, organize, and clean it first. We learned how to explore a dataset using head(), info(), and describe(), identify missing values, handle duplicates, and remove irrelevant data. One thing more is that missing values can be handled through imputation, deletion, or prediction, while duplicate entries, irrelevant features, and noisy data should be checked to remove redundancies and improve data quality. What surprised us was that even when a dataset has many entries, they can still contain missing or inconsistent information that may affect the accuracy of the results.
+
+What we've learned from chapter 4 is that raw data can be improved in many ways including creating new features, grouping numerical values, and converting categories into numbers. We also learned that binning, interaction features, polynomial features, one-hot encoding, and ordinal encoding are used to transform and improve data so machine learning models can understand patterns, relationships, and categories more effectively. What surprised us was that creating a new feature, for example the Lemonade per Degree, it helps us reveal useful relationships in the data that may not be obvious from the original features.
+
+Chapter 5 taught us that data scaling and normalization helps in making features with different numerical ranges or values more comparable. We also learned that StandardScaler adjusts the data to have a mean of 0 and a standard deviation of 1, while MinMaxScaler scales values between 0 and 1. What surprised us was that a feature with larger numerical values could influence a machine learning model more than a feature with smaller values, even when both features are important.
 
 ## Errors we found
 
@@ -37,8 +40,9 @@ There are real ones in there. Finding them earns points.
 
 ## Note on AI tools
 
-Say whether you used an AI tool, and what for. This is not a penalty.
-Hiding it is.
+Member 1:
+
+I used AI as a supplementary tool to help me verify my understanding of the topics, clarify concepts that I found confusing. However, the wordings on my answers was all originally from me, because I referred from the notebooks and used them as my primary source of information to make sure my answers were consistent with what was discussed in each chapter. I reviewed and adjusted the responses based on my own understanding rather than simply copying them, allowing me to use AI as a guide to support my learning and improve my uderstanding from the lessons.
 
 ## References
 
