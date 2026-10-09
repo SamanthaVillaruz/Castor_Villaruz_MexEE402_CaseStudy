@@ -15,7 +15,7 @@ Batangas State University, Alangilan Campus
 
 ## Notebook links
 
-| Chapter | Member 1 | Member 2 |
+| Chapter | Castor | Villaruz |
 |---|---|---|
 | Ch1_2_3 | [https://colab.research.google.com/drive/14c6LMMYxg-W-r7JvkNpbFq4g8eB5DY9C?usp=sharing]() | [link]() |
 | Ch4 | [https://colab.research.google.com/drive/1u9jzDgPQMeH5jUQz-cuyJfyu-IgcZfMh?usp=sharing]() | [link]() |
